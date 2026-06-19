@@ -27,7 +27,7 @@ http://192.168.0.10:5000/news-malayalam-24x7
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ytimg.com/vi/4Ng7A95vHT0/maxresdefault.jpg" tvg-id="",Amrita News
 http://192.168.0.10:5000/amrita-news
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.kairalinewsonline.com/wp-content/uploads/2023/08/kairalinews.jpg" tvg-id="",Kairali News
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg" tvg-id="",Kairali News
 http://192.168.0.10:5000/kairali-news
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://malayalam-bigtv-images.s3.ap-south-1.amazonaws.com/2026/04/BIGTV-MALAYALAM.jpg" tvg-id="",BIG TV 24x7
