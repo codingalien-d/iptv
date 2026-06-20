@@ -96,6 +96,21 @@ http://192.168.0.10:5000/cnn-news18
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/NBC_News_2011.svg" tvg-id="",NBC News
 http://192.168.0.10:5000/nbc-news
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/120px-National_Geographic_Wild_logo.svg.png" tvg-id="",Nat Geo Wild
+http://192.168.0.10:5000/nat-geo-wild
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/DmCyVJFJ/images.jpg" tvg-id="",BBC Timestamp
+http://192.168.0.10:5000/bbc-timestamp
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/250px-Natgeologo.svg.png" tvg-id="",National Geographic
+http://192.168.0.10:5000/national-geographic
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Disney_Kids_%26_Family_Logo.png/250px-Disney_Kids_%26_Family_Logo.png" tvg-id="",Disney Kids
+http://192.168.0.10:5000/disney-kids
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cdn.shopify.com/s/files/1/0264/9063/4337/files/Group_626.png" tvg-id="",Learn with Ms Rachel
+http://192.168.0.10:5000/learn-with-ms-rachel
+
 
 #EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
@@ -309,6 +324,7 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WildTV.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png" group-title="Documentary",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 #EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
