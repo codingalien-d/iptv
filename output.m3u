@@ -307,12 +307,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
 
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Sports",More Than Sports TV 
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV 
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31344/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="RTIndia.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="News",RT India 
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
