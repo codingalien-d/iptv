@@ -147,7 +147,7 @@ http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 
 
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Movies",Kairali We
-http://192.168.0.10:8096/kairaliwe.m3u8
+https://cdn-3.pishow.tv/live/1530/master.m3u8
 
 #EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Lifestyle",Kappa TV 
 https://cdn-3.pishow.tv/live/1123/master.m3u8
@@ -171,20 +171,12 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/mast
 #EXTINF:-1 tvg-id="AnandTV.uk@SD" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Entertainment",Anand TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 
-#EXTINF:-1 tvg-id="Swantham.in@SD" tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Entertainment",Swantham
-http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
-
-#EXTINF:-1 tvg-id="Swantham.in@SD" tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Entertainment",Swantham
-http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 
 #EXTINF:-1 tvg-id="VCV.in@SD" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Entertainment",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MalabarNews.in@SD" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="Entertainment",Malabar News 
 http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
-
-#EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD
-https://cdn-7.pishow.tv/live/1129/master.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
