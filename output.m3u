@@ -466,3 +466,40 @@ https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="News",Vietnam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+
+
+#EXTINF:-1 tvg-id="BritishScreenClassics" tvg-logo="https://www.tvchannellists.com/wiki/images/1/1b/British_Screen_Classics.svg" group-title="Movies",British Screen Classics
+https://amg00654-itv-amg00654c25-samsung-gb-4838.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Movies",CTV 9
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.filmgold-tv.de/files/tao/media/img/filmgold-tv/ueber-uns/Filmgold-Logo.jpg" group-title="Movies",FilmGold Germany
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/250px-Filmrise.svg.png" group-title="Movies",FilmRise Binge Watch France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",History & Warfare Now
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Kung Fu+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Latino Classic TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Lassie
+https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",PBS History
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mebucom.de/wp-content/uploads/2023/03/orig-34-2.jpg" group-title="Movies",Wedo movies
+https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Wild West TV
+https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
