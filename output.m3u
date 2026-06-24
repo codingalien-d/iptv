@@ -487,9 +487,6 @@ https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4fre
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Wild West TV
 https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Action.fr@HD" tvg-logo="https://i.imgur.com/Zv9VsVq.png" group-title="Movies",Action
-http://rezofoot.tv/Action/index.m3u8
-
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="Movies",Hallmark Channel 
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
