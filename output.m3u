@@ -242,10 +242,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClassicMoviesChannel.us@SD" tvg-logo="https://i.imgur.com/pQJxov2.png" group-title="Movies",Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
-#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-logo="https://i.imgur.com/wg5I5Fb.png" group-title="Comedy",Classic TV Comedy
-https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
 
 
 
@@ -357,8 +354,6 @@ https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Kids",BBC CBBC
 http://193.46.58.239:8080/CBBCHD/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentralAnimation.us@SD" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Comedy",Comedy Central Animation
-https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 
 #EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="Kids",FilmRise Anime
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
@@ -467,8 +462,6 @@ https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",History Hunters
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Kung Fu+
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Lassie
 https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
