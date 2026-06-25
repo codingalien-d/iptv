@@ -36,8 +36,8 @@ http://192.168.0.10:5000/jaihind-tv
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.keralavisionnews.com/assets/images/logo.png" tvg-id="",Kerala Vision News
 http://192.168.0.10:5000/kerala-vision-news
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/h147HW3L/images-1.jpg" tvg-id="",TCV News
-http://192.168.0.10:5000/tcv-news
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/h147HW3L/images-1.jpg" tvg-id="",TCV News Live
+http://192.168.0.10:5000/tcv-news-live
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1920px-NDTV_logo.svg.png" tvg-id="",NDTV 24x7
 http://192.168.0.10:5000/ndtv-24x7
