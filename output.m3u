@@ -154,8 +154,6 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="News",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" group-title="News",OAN
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
@@ -514,4 +512,10 @@ https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="Sports",ČT Sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="News",i24NEWS English World
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
