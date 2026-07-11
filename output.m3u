@@ -517,3 +517,9 @@ https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="News",i24NEWS World
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/XHDF_Azteca_Uno_%282018%29.svg/960px-XHDF_Azteca_Uno_%282018%29.svg.png" group-title="Sports",Azteca UNO -1 hora
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+
+#EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Sports",TVP Sport
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
