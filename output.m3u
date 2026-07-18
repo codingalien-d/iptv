@@ -524,8 +524,7 @@ https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 #EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Sports",TVP Sport
 http://192.168.0.10:5000/hls/tvp-sport/index.m3u8
 
-#EXTINF:-1 tvg-id="NWSport1.tg@SD" tvg-logo="https://i.imgur.com/gIR8iap.png" group-title="Sports",NW Sport 1
-http://41.205.70.146/BEINSPORT1/index.m3u8
+
 #EXTINF:-1 tvg-id="NWSport2.tg@SD" tvg-logo="" group-title="Sports",NW Sport 2
 http://41.205.70.146/M6/index.m3u8
 
@@ -533,8 +532,15 @@ http://41.205.70.146/M6/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NWSport1.tg@SD" tvg-logo="https://i.imgur.com/gIR8iap.png" group-title="Sports",NW Sport 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1
 http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN3
+http://40.160.24.55/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN4
+http://40.160.24.55/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Sports",TVRI Sport
 http://157.15.187.3:25092/hls/49/49.m3u8
 
