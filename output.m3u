@@ -144,10 +144,10 @@ http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 
 
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Entertainment",Kairali We
-http://192.168.0.10:5000/hls/kairali-we/index.m3u8
+http://192.168.0.100:5000/hls/kairali-we/index.m3u8
 
 #EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Entertainment",Kappa TV 
-http://192.168.0.10:5000/hls/kappa/index.m3u8
+http://192.168.0.100:5000/hls/kappa/index.m3u8
 
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@UK" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="News",NTD TV
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
@@ -522,7 +522,7 @@ https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 
 #EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Sports",TVP Sport
-http://192.168.0.10:5000/hls/tvp-sport/index.m3u8
+http://192.168.0.100:5000/hls/tvp-sport/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NWSport2.tg@SD" tvg-logo="" group-title="Sports",NW Sport 2
