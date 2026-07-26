@@ -109,27 +109,27 @@ http://192.168.0.100:5000/bbc-timestamp
 http://192.168.0.100:5000/national-geographic
 
 
-#EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/250px-Amrita_TV.svg.png" group-title="Entertainment",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="FlowersTVUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Entertainment",Flowers TV USA
+#EXTINF:-1 tvg-id="FlowersTVUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Flowers_TV_2023_logo.png/250px-Flowers_TV_2023_logo.png" group-title="Entertainment",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ZeeMalayalamNews.in@SD" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-malayalam-17.svg" group-title="Malayalam",Zee Malayalam News
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 
-#EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/EmBpOWM.png" group-title="Malayalam",Real News Kerala
+#EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://realnewskerala.com/wp-content/uploads/2025/08/272-x-90-px-FOOTER-LOGO.png" group-title="Malayalam",Real News Kerala
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PulariTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Entertainment",Pulari TV
+#EXTINF:-1 tvg-id="PulariTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://www.pularitv.com/assets/images/Pulari-Logo.png" group-title="Entertainment",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png" group-title="Entertainment",Kairali TV
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 
 
-#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="Entertainment",Kairali Arabia
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-logo="https://www.keralatv.in/media/2015/03/Kairali-Arabia-Logo-280x267.jpg" group-title="Entertainment",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 
 
@@ -139,7 +139,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/in
 #EXTINF:-1 tvg-id="JeevanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="Entertainment",Jeevan TV
 https://cdn-3.pishow.tv/live/1467/master.m3u8
 
-#EXTINF:-1 tvg-id="Swantham.in@SD" tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Entertainment",Swantham 
+#EXTINF:-1 tvg-id="Swantham.in@SD" tvg-logo="https://i.ibb.co/s9DsTjQZ/images-1.jpg" group-title="Entertainment",Swantham 
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 
 
@@ -165,30 +165,30 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 #EXTINF:-1 tvg-id="KaumudyTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Kaumudy TV 
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KCLTV.in@SD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Entertainment",KCL TV 
+#EXTINF:-1 tvg-id="KCLTV.in@SD" tvg-logo="https://kcltv.com/images/logo.jpg" group-title="Entertainment",KCL TV 
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
-#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Entertainment",Magna Vision
+#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://magnavision.tv/wp-content/uploads/MV-Logo-v77.jpg" group-title="Entertainment",Magna Vision
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KiteVicters.in@SD" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Entertainment",KITE Victers
+#EXTINF:-1 tvg-id="KiteVicters.in@SD" tvg-logo="hhttps://victers.kite.kerala.gov.in/victers_live/assets/img/victers.png" group-title="Entertainment",KITE Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News18Kerala.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png" group-title="Malayalam",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 
 
-#EXTINF:-1 tvg-id="AnandTV.uk@SD" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Entertainment",Anand TV
+#EXTINF:-1 tvg-id="AnandTV.uk@SD" tvg-logo="https://anandmedia.net/assets/images/anandmedia_aboutlogo.png" group-title="Entertainment",Anand TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 
 
-#EXTINF:-1 tvg-id="VCV.in@SD" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Entertainment",VCV
+#EXTINF:-1 tvg-id="VCV.in@SD" tvg-logo="https://i.ibb.co/3528g54m/images-2.png" group-title="Entertainment",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MalabarNews.in@SD" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="Entertainment",Malabar News 
+#EXTINF:-1 tvg-id="MalabarNews.in@SD" tvg-logo="https://www.malabarnews.com/wp-content/themes/gcc/images/logo.svg" group-title="Entertainment",Malabar News 
 http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
 
-#EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama HD
+#EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mazhavil_Manorama_Logo.png/250px-Mazhavil_Manorama_Logo.png" group-title="Entertainment",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 
 
@@ -354,7 +354,7 @@ https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD" tvg-logo="https://i.imgur.com/v0BlxCa.png" group-title="Kids",ANIME x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 
-#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Entertainment",Asianet Middle East
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Asianet_Middle_East.jpg" group-title="Entertainment",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Kids",BBC CBBC
