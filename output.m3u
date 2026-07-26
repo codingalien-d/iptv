@@ -165,12 +165,12 @@ http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 #EXTINF:-1 tvg-id="VCV.in@SD" tvg-logo="https://i.ibb.co/3528g54m/images-2.png" group-title="Entertainment",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 
-http://tvsen7.aynascope.net/sspts1/index.m3u8
+
 #EXTINF:-1 tvg-id="Starnet.in@SD" tvg-logo="https://i.ibb.co/Jjvt6YKS/J3j-B7Kr.png" group-title="Entertainment",Starnet
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 
-https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CCV.in@SD" tvg-logo="https://i.ibb.co/9dP2Sbd/unnamed.jpg" group-title="Entertainment",V9 Channel
-
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MalabarNews.in@SD" tvg-logo="https://www.malabarnews.com/wp-content/themes/gcc/images/logo.svg" group-title="Entertainment",Malabar News 
 http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
