@@ -112,15 +112,9 @@ http://192.168.0.100:5000/national-geographic
 #EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-logo="https://i.ibb.co/MJ7HP07/Amrita-TV.jpg" group-title="Entertainment",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Asianet.in@SD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" http-referrer="https://tulnit.com" group-title="Entertainment",Asianet
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Asianet_Middle_East.jpg" group-title="Entertainment",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
-
-#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FLOWERS_TV/images/LOGO_HD/image.png" group-title="Entertainment",Flowers TV
-http://103.72.101.252:8080/live/634.m3u8
 
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mazhavil_Manorama_Logo.png/250px-Mazhavil_Manorama_Logo.png" group-title="Entertainment",Mazhavil Manorama HD
@@ -137,7 +131,7 @@ https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Entertainment",Kairali We
-http://192.168.0.100:5000/hls/kairali-we/index.m3u8
+http://192.168.0.105:5000/hls/kairali-we/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ZeeMalayalamNews.in@SD" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-malayalam-17.svg" group-title="Malayalam",Zee Malayalam News
@@ -551,7 +545,7 @@ https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 
 #EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Sports",TVP Sport
-http://192.168.0.100:5000/hls/tvp-sport/index.m3u8
+http://192.168.0.105:5000/hls/tvp-sport/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NWSport2.tg@SD" tvg-logo="" group-title="Sports",NW Sport 2
